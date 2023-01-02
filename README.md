@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering (Frontend) Class of 2022.
-- 👀 I’m interested in HTML, CSS, JavaScript and React.
-- 🌱 I’m currently learning JavaScript & ReactJs.
+- 👀 I’m interested in HTML, CSS, JavaScript, React and Vue.
+- 🌱 I’m currently learning JavaScript, ReactJs and VueJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
 - 📫 How to reach me: You can contact me by emailing mailtoalexekpendu001@gmail.com
