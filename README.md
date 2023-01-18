@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering (Frontend) Class of 2022.
+- 💡 Fun fact: Lorem ipsum dolor sit amet
 - 👀 I’m interested in HTML, CSS, JavaScript, React and Vue.
 - 🌱 I’m currently learning JavaScript, ReactJs and VueJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
