@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 💡 Fun fact: Lorem ipsum dolor sit amet
+- 💡 Fun fact: I Can hold my breath for a minute
 - 👀 I’m interested in HTML, CSS, JavaScript, React and Vue.
 - 🌱 I’m currently learning JavaScript, ReactJs and VueJs.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
